@@ -27,9 +27,7 @@ Easy-to-Use Interface: Provides a user-friendly interface for making predictions
 
 -  Installation
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/skin-disease-classifier.git
+
 Install Dependencies:
 bash
 Copy code
